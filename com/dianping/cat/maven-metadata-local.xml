@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>cat-maven-plugin</name>
+      <prefix>cat</prefix>
+      <artifactId>cat-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
